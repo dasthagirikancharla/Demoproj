@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIMWebApplication", "RIMWebApplication\RIMWebApplication.csproj", "{BCE2C9E2-5C2B-4375-BD06-3D54CB5B4BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE2C9E2-5C2B-4375-BD06-3D54CB5B4BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE2C9E2-5C2B-4375-BD06-3D54CB5B4BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE2C9E2-5C2B-4375-BD06-3D54CB5B4BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE2C9E2-5C2B-4375-BD06-3D54CB5B4BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E16C8E97-74AE-4565-A0D4-09C539A7A7C1}
+	EndGlobalSection
+EndGlobal
